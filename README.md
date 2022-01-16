@@ -1,2 +1,7 @@
-# shopify_data_science_intern_challenge
+<!-- #region -->
+# Shopify Data Science Intern Challenge
 Summer 2022 Data Science Intern Challenge 
+
+
+The dataset used is 
+<!-- #endregion -->
